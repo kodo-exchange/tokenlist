@@ -39,7 +39,7 @@
         {
             "chainId": 167009,
             "address": "0xfa510751d09a3a1fF34E35c71C4b476D7D5AeAa7",
-            "name": "LoopringCoin V2(test)",
+            "name": "LoopringCoin V2 (test)",
             "symbol": "tLRC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png"
@@ -47,7 +47,7 @@
         {
             "chainId": 167009,
             "address": "0x55940343F4238b5c04c993A47d90C44336a1f809",
-            "name": "Magic Internet Money(test)",
+            "name": "Magic Internet Money (test)",
             "symbol": "tMIM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/mim.png"
