@@ -10,7 +10,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/weth.png"
         },
         {
             "chainId": 167009,
@@ -18,7 +18,7 @@
             "name": "Bridged Taiko Token Hekla (⭀17000)",
             "symbol": "TTKOh.t",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/taikoxyz/taiko-mono/main/packages/branding/testnet-token-images/ttko.svg"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/tko.svg"
         },
         {
             "chainId": 167009,
@@ -26,15 +26,15 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
-            "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdc.png"
         },
         {
             "chainId": 167009,
             "address": "0x2029Ca1e4A5954781a271d6Fa3598bF4434969f5",
             "name": "Bridged Horse Token (⭀17000)",
             "symbol": "HORSE.t",
-            "decimals": 6,
-            "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/horse.svg"
         },
         {
             "chainId": 167009,
@@ -42,16 +42,15 @@
             "name": "LoopringCoin V2",
             "symbol": "LRC",
             "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/data/LRC/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png"
         },
-        
         {
             "chainId": 167009,
             "address": "0x55940343F4238b5c04c993A47d90C44336a1f809",
             "name": "Magic Internet Money",
             "symbol": "MIM",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/fantom/assets/0x82f0B8B456c1A451378467398982d4834b6829c1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/mim.png"
         },
         {
             "chainId": 167009,
@@ -59,7 +58,7 @@
             "name": "Kodo Exchange",
             "symbol": "KDO",
             "decimals": 18,
-            "logoURI": "https://test.kodo.exchange/tokens/solid.svg"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg"
         }
     ]
   }
