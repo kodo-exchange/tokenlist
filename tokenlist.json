@@ -59,6 +59,14 @@
             "symbol": "KDO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg"
+        },
+        {
+            "chainId": 167009,
+            "address": "0x3ED747B2200CD4674AF182F72445d4a63d5290F0",
+            "name": "Notch Token",
+            "symbol": "NOTCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/notch.png"
         }
     ]
   }
