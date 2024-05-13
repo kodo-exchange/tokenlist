@@ -1,4 +1,4 @@
-# Token Assets
+# Kodo Exchange Token Assets
 
 This repository contains official assets for the Kodo Exchange.
 
