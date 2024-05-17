@@ -67,6 +67,14 @@
             "symbol": "NOTCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/notch.png"
+        },
+        {
+            "chainId": 167009,
+            "address": "0x5Acd50C83ab74c35F3F9240299eCb03A326b2328",
+            "name": "Wrapped sxETH",
+            "symbol": "wsxETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/wsxeth.png"
         }
     ]
   }
