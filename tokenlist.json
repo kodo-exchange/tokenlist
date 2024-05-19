@@ -76,5 +76,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/wsxeth.png"
         }
+        ,
+        {
+            "chainId": 167009,
+            "address": "0xeb8F3cA3FDC91a02365a63Ad92b33585Ff1B3F4E",
+            "name": "Roaring Kitty Token",
+            "symbol": "KITTY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kitty.png"
+        }
     ]
   }
