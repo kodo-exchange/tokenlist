@@ -10,7 +10,7 @@ This repository contains official assets for the Kodo Exchange.
 
 ## Token Listing on Kodo
 
-To list a token, submit a PR with the required information to this repository. As an alternative, [open a ticket on Kodo Discord](https://discord.com/invite/p99hk4actg) to get our support!
+To *whitelist* a token, submit a PR with the required information to this repository. As an alternative, [open a ticket on Kodo Discord](https://discord.com/invite/p99hk4actg) to get our support!
 
 #### Eligibility Criteria
 
