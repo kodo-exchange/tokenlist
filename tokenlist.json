@@ -2,7 +2,7 @@
     "name": "Kodo Exchange",
     "logoURI": "https://www.kodo.exchange/logo.svg",
     "keywords": ["layer2", "amm"],
-    "timestamp": "2024-05-03T23:01:21.042+00:00",
+    "timestamp": "2024-06-10 00:11:42",
     "tokens": [
         {
             "chainId": 167009,
@@ -15,8 +15,8 @@
         {
             "chainId": 167009,
             "address": "0xebF1f662bF092ff0D913a9fe9D7179B0efEF1611",
-            "name": "Bridged Taiko Token Hekla (⭀17000)",
-            "symbol": "TTKOh.t",
+            "name": "Taiko Token",
+            "symbol": "TAIKO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/tko.svg"
         },
@@ -30,59 +30,11 @@
         },
         {
             "chainId": 167009,
-            "address": "0x2029Ca1e4A5954781a271d6Fa3598bF4434969f5",
-            "name": "Bridged Horse Token (⭀17000)",
-            "symbol": "HORSE.t",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/horse.svg"
-        },
-        {
-            "chainId": 167009,
-            "address": "0xfa510751d09a3a1fF34E35c71C4b476D7D5AeAa7",
-            "name": "LoopringCoin V2 (test)",
-            "symbol": "tLRC",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png"
-        },
-        {
-            "chainId": 167009,
-            "address": "0x55940343F4238b5c04c993A47d90C44336a1f809",
-            "name": "Magic Internet Money (test)",
-            "symbol": "tMIM",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/mim.png"
-        },
-        {
-            "chainId": 167009,
-            "address": "0xf3B2442b1f1c37FFaF2f2A2d93a2954eaF660646",
+            "address": "0x728eBaCBf12C2962dF90Ba04F6dD09f4394C76b3",
             "name": "Kodo Exchange",
-            "symbol": "KDO",
+            "symbol": "KODO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg"
-        },
-        {
-            "chainId": 167009,
-            "address": "0x3ED747B2200CD4674AF182F72445d4a63d5290F0",
-            "name": "Notch Token",
-            "symbol": "NOTCH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/notch.png"
-        },
-        {
-            "chainId": 167009,
-            "address": "0x5Acd50C83ab74c35F3F9240299eCb03A326b2328",
-            "name": "Wrapped sxETH",
-            "symbol": "wsxETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/wsxeth.png"
-        },
-        {
-            "chainId": 167009,
-            "address": "0xeb8F3cA3FDC91a02365a63Ad92b33585Ff1B3F4E",
-            "name": "Roaring Kitty Token",
-            "symbol": "KITTY",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kitty.png"
         }
     ]
   }
