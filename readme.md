@@ -19,8 +19,8 @@ To *whitelist* a token, submit a [listing reqest](https://forms.gle/My8xpy7yAwW8
 
 #### Submission Details
 
-1. Update `tokenlist.json` with token information.
-2. Add token logo to the `assets` directory (SVG or PNG, 32x32 or 128x128 preferred).
+1. Verified token contract address.
+2. Token logo (SVG or PNG, 128x128 or 256x256 preferred).
 3. Description of the contract, any minting, and admin functions, including their necessity and misuse protection.
 4. Description of token's current and future distribution, including community vs. team ownership, total holders, and holder distribution.
 5. Incentivization plan of how to distribute tokens via voting incentives (optional).
