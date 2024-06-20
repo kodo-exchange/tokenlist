@@ -35,6 +35,14 @@
             "symbol": "KODO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg"
+        },
+        {
+            "chainId": 167000,
+            "address": "0xd347949F8C85d9f3d6B06bfc4F8c2E07c161f064",
+            "name": "LoopringCoin V2",
+            "symbol": "LRC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png"
         }
     ]
   }
