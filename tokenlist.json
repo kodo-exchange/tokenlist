@@ -49,7 +49,7 @@
             "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png"
         }
     ]
