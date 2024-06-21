@@ -43,6 +43,14 @@
             "symbol": "LRC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png"
+        },
+        {
+            "chainId": 167000,
+            "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png"
         }
     ]
   }
