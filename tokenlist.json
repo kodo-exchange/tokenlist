@@ -51,6 +51,14 @@
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png"
+        },
+        {
+            "chainId": 167000,
+            "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+            "name": "Bridged USDC (Stargate)",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdc.png"
         }
     ]
   }
