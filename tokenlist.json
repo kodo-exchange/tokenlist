@@ -58,7 +58,7 @@
             "name": "Bridged USDC (Stargate)",
             "symbol": "USDC.e",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.png"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg"
         }
     ]
   }
