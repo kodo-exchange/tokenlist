@@ -66,7 +66,7 @@
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.png"
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg"
         }
     ]
   }
