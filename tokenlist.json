@@ -59,6 +59,14 @@
             "symbol": "USDC.e",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg"
+        },
+        {
+            "chainId": 167000,
+            "address": "0x473C58b748156D3249cA31Baa3cAd9781EB6d97e",
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.png"
         }
     ]
   }
